@@ -1,0 +1,13 @@
+GET http://localhost:3001/
+###
+GET http://localhost:3001/toto/
+###
+GET http://localhost:3001/date/
+###
+GET http://localhost:3001/thomas/
+###
+GET http://localhost:3001/files/
+###
+GET http://localhost:3001/random/
+###
+GET http://localhost:3001/randomBetween/100/150
